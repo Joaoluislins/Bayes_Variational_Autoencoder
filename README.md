@@ -8,3 +8,4 @@ Course: CS 583-A Deep Learning
 Student: João Luís Lins Rodrigues Cruz
 email: jlinsrod@stevens.edu
 
+![Image4](interpolation.jpeg)
